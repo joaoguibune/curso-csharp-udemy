@@ -1,0 +1,11 @@
+C:\Projetos\curso-udemy\CadastroSimplesDeProduto\CadastroSimplesDeProduto\bin\Debug\netcoreapp2.0\CadastroSimplesDeProduto.deps.json
+C:\Projetos\curso-udemy\CadastroSimplesDeProduto\CadastroSimplesDeProduto\bin\Debug\netcoreapp2.0\CadastroSimplesDeProduto.runtimeconfig.json
+C:\Projetos\curso-udemy\CadastroSimplesDeProduto\CadastroSimplesDeProduto\bin\Debug\netcoreapp2.0\CadastroSimplesDeProduto.runtimeconfig.dev.json
+C:\Projetos\curso-udemy\CadastroSimplesDeProduto\CadastroSimplesDeProduto\bin\Debug\netcoreapp2.0\CadastroSimplesDeProduto.dll
+C:\Projetos\curso-udemy\CadastroSimplesDeProduto\CadastroSimplesDeProduto\bin\Debug\netcoreapp2.0\CadastroSimplesDeProduto.pdb
+C:\Projetos\curso-udemy\CadastroSimplesDeProduto\CadastroSimplesDeProduto\obj\Debug\netcoreapp2.0\CadastroSimplesDeProduto.csprojResolveAssemblyReference.cache
+C:\Projetos\curso-udemy\CadastroSimplesDeProduto\CadastroSimplesDeProduto\obj\Debug\netcoreapp2.0\CadastroSimplesDeProduto.csproj.CoreCompileInputs.cache
+C:\Projetos\curso-udemy\CadastroSimplesDeProduto\CadastroSimplesDeProduto\obj\Debug\netcoreapp2.0\CadastroSimplesDeProduto.AssemblyInfoInputs.cache
+C:\Projetos\curso-udemy\CadastroSimplesDeProduto\CadastroSimplesDeProduto\obj\Debug\netcoreapp2.0\CadastroSimplesDeProduto.AssemblyInfo.cs
+C:\Projetos\curso-udemy\CadastroSimplesDeProduto\CadastroSimplesDeProduto\obj\Debug\netcoreapp2.0\CadastroSimplesDeProduto.dll
+C:\Projetos\curso-udemy\CadastroSimplesDeProduto\CadastroSimplesDeProduto\obj\Debug\netcoreapp2.0\CadastroSimplesDeProduto.pdb

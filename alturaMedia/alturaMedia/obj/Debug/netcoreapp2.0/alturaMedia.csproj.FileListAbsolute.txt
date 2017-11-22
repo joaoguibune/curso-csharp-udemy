@@ -1,0 +1,11 @@
+C:\Projetos\curso-udemy\alturaMedia\alturaMedia\bin\Debug\netcoreapp2.0\alturaMedia.deps.json
+C:\Projetos\curso-udemy\alturaMedia\alturaMedia\bin\Debug\netcoreapp2.0\alturaMedia.runtimeconfig.json
+C:\Projetos\curso-udemy\alturaMedia\alturaMedia\bin\Debug\netcoreapp2.0\alturaMedia.runtimeconfig.dev.json
+C:\Projetos\curso-udemy\alturaMedia\alturaMedia\bin\Debug\netcoreapp2.0\alturaMedia.dll
+C:\Projetos\curso-udemy\alturaMedia\alturaMedia\bin\Debug\netcoreapp2.0\alturaMedia.pdb
+C:\Projetos\curso-udemy\alturaMedia\alturaMedia\obj\Debug\netcoreapp2.0\alturaMedia.csprojResolveAssemblyReference.cache
+C:\Projetos\curso-udemy\alturaMedia\alturaMedia\obj\Debug\netcoreapp2.0\alturaMedia.csproj.CoreCompileInputs.cache
+C:\Projetos\curso-udemy\alturaMedia\alturaMedia\obj\Debug\netcoreapp2.0\alturaMedia.AssemblyInfoInputs.cache
+C:\Projetos\curso-udemy\alturaMedia\alturaMedia\obj\Debug\netcoreapp2.0\alturaMedia.AssemblyInfo.cs
+C:\Projetos\curso-udemy\alturaMedia\alturaMedia\obj\Debug\netcoreapp2.0\alturaMedia.dll
+C:\Projetos\curso-udemy\alturaMedia\alturaMedia\obj\Debug\netcoreapp2.0\alturaMedia.pdb

@@ -1,0 +1,10 @@
+C:\Projetos\curso-udemy\aulaListas\aulaListas\bin\Debug\netcoreapp2.0\aulaListas.deps.json
+C:\Projetos\curso-udemy\aulaListas\aulaListas\bin\Debug\netcoreapp2.0\aulaListas.runtimeconfig.json
+C:\Projetos\curso-udemy\aulaListas\aulaListas\bin\Debug\netcoreapp2.0\aulaListas.runtimeconfig.dev.json
+C:\Projetos\curso-udemy\aulaListas\aulaListas\bin\Debug\netcoreapp2.0\aulaListas.dll
+C:\Projetos\curso-udemy\aulaListas\aulaListas\bin\Debug\netcoreapp2.0\aulaListas.pdb
+C:\Projetos\curso-udemy\aulaListas\aulaListas\obj\Debug\netcoreapp2.0\aulaListas.csproj.CoreCompileInputs.cache
+C:\Projetos\curso-udemy\aulaListas\aulaListas\obj\Debug\netcoreapp2.0\aulaListas.AssemblyInfoInputs.cache
+C:\Projetos\curso-udemy\aulaListas\aulaListas\obj\Debug\netcoreapp2.0\aulaListas.AssemblyInfo.cs
+C:\Projetos\curso-udemy\aulaListas\aulaListas\obj\Debug\netcoreapp2.0\aulaListas.dll
+C:\Projetos\curso-udemy\aulaListas\aulaListas\obj\Debug\netcoreapp2.0\aulaListas.pdb

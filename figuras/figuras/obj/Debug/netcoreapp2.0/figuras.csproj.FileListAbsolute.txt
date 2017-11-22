@@ -1,0 +1,11 @@
+C:\Projetos\curso-udemy\figuras\figuras\bin\Debug\netcoreapp2.0\figuras.deps.json
+C:\Projetos\curso-udemy\figuras\figuras\bin\Debug\netcoreapp2.0\figuras.runtimeconfig.json
+C:\Projetos\curso-udemy\figuras\figuras\bin\Debug\netcoreapp2.0\figuras.runtimeconfig.dev.json
+C:\Projetos\curso-udemy\figuras\figuras\bin\Debug\netcoreapp2.0\figuras.dll
+C:\Projetos\curso-udemy\figuras\figuras\bin\Debug\netcoreapp2.0\figuras.pdb
+C:\Projetos\curso-udemy\figuras\figuras\obj\Debug\netcoreapp2.0\figuras.csprojResolveAssemblyReference.cache
+C:\Projetos\curso-udemy\figuras\figuras\obj\Debug\netcoreapp2.0\figuras.csproj.CoreCompileInputs.cache
+C:\Projetos\curso-udemy\figuras\figuras\obj\Debug\netcoreapp2.0\figuras.AssemblyInfoInputs.cache
+C:\Projetos\curso-udemy\figuras\figuras\obj\Debug\netcoreapp2.0\figuras.AssemblyInfo.cs
+C:\Projetos\curso-udemy\figuras\figuras\obj\Debug\netcoreapp2.0\figuras.dll
+C:\Projetos\curso-udemy\figuras\figuras\obj\Debug\netcoreapp2.0\figuras.pdb

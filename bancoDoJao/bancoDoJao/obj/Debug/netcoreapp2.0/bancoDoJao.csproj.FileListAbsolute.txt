@@ -1,0 +1,11 @@
+C:\Projetos\curso-udemy\bancoDoJao\bancoDoJao\bin\Debug\netcoreapp2.0\bancoDoJao.deps.json
+C:\Projetos\curso-udemy\bancoDoJao\bancoDoJao\bin\Debug\netcoreapp2.0\bancoDoJao.runtimeconfig.json
+C:\Projetos\curso-udemy\bancoDoJao\bancoDoJao\bin\Debug\netcoreapp2.0\bancoDoJao.runtimeconfig.dev.json
+C:\Projetos\curso-udemy\bancoDoJao\bancoDoJao\bin\Debug\netcoreapp2.0\bancoDoJao.dll
+C:\Projetos\curso-udemy\bancoDoJao\bancoDoJao\bin\Debug\netcoreapp2.0\bancoDoJao.pdb
+C:\Projetos\curso-udemy\bancoDoJao\bancoDoJao\obj\Debug\netcoreapp2.0\bancoDoJao.csprojResolveAssemblyReference.cache
+C:\Projetos\curso-udemy\bancoDoJao\bancoDoJao\obj\Debug\netcoreapp2.0\bancoDoJao.csproj.CoreCompileInputs.cache
+C:\Projetos\curso-udemy\bancoDoJao\bancoDoJao\obj\Debug\netcoreapp2.0\bancoDoJao.AssemblyInfoInputs.cache
+C:\Projetos\curso-udemy\bancoDoJao\bancoDoJao\obj\Debug\netcoreapp2.0\bancoDoJao.AssemblyInfo.cs
+C:\Projetos\curso-udemy\bancoDoJao\bancoDoJao\obj\Debug\netcoreapp2.0\bancoDoJao.dll
+C:\Projetos\curso-udemy\bancoDoJao\bancoDoJao\obj\Debug\netcoreapp2.0\bancoDoJao.pdb
