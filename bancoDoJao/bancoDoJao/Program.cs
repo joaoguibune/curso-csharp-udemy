@@ -10,7 +10,7 @@ namespace bancoDoJao
             Conta C;
             double valor;
             double saldo = 0;
-
+            double limite = 0;    
            
 
             Console.WriteLine("Bem, vindo ao banco do Jão");
@@ -21,7 +21,8 @@ namespace bancoDoJao
             string nome = Console.ReadLine();
             Console.Write("Haverá depósito inicial (s/n)?");
             char deposito = char.Parse(Console.ReadLine());
-            if(deposito == 's')
+            
+            if (deposito == 's')
             {
                 Console.Write("Digite o valor do depósito inicial:");
                 saldo = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
@@ -29,7 +30,10 @@ namespace bancoDoJao
 
             }
 
-            C = new Conta(numero, nome, saldo);
+            Console.Write("Digite o limite de saque:");
+            limite = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+
+            C = new Conta(numero, nome, limite, saldo);
 
 
             Console.WriteLine("Conta Criada");
@@ -43,9 +47,17 @@ namespace bancoDoJao
 
             Console.WriteLine("Digite um valor para saque");
             valor = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-            C.saque(valor);
-            Console.WriteLine("Conta Atualizada");
-            Console.WriteLine(C);
+            try
+            {
+                C.saque(valor);
+                Console.WriteLine("Conta Atualizada");
+                Console.WriteLine(C);
+            }
+            catch(OperacaoException e)
+            {
+                Console.WriteLine(e.Message);
+            }
+           
 
             Console.ReadLine();
 

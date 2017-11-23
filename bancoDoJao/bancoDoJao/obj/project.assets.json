@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\curso-udemy\\bancoDoJao\\bancoDoJao\\bancoDoJao.csproj",
+      "projectUniqueName": "C:\\Projetos\\curso-csharp-udemy\\bancoDoJao\\bancoDoJao\\bancoDoJao.csproj",
       "projectName": "bancoDoJao",
-      "projectPath": "C:\\Projetos\\curso-udemy\\bancoDoJao\\bancoDoJao\\bancoDoJao.csproj",
+      "projectPath": "C:\\Projetos\\curso-csharp-udemy\\bancoDoJao\\bancoDoJao\\bancoDoJao.csproj",
       "packagesPath": "C:\\Users\\joao.buch\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\curso-udemy\\bancoDoJao\\bancoDoJao\\obj\\",
+      "outputPath": "C:\\Projetos\\curso-csharp-udemy\\bancoDoJao\\bancoDoJao\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
